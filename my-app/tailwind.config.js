@@ -9,7 +9,8 @@ module.exports = {
     extend: {},
     colors: {
       lightBlack: "#161514",
-      white: "white"
+      white: "white",
+      pink: "#FF3860"
     }
   },
   plugins: [],
