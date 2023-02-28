@@ -7,6 +7,10 @@ module.exports = {
     'mon': '"montserrat"'
   },
     extend: {},
+    colors: {
+      lightBlack: "#161514",
+      white: "white"
+    }
   },
   plugins: [],
 }
